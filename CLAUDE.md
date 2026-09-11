@@ -10,5 +10,5 @@ nudge if a future check against the live map shows drift.
 
 | Park | Latitude | Longitude |
 |---|---|---|
-| River Forest Park | 36.0778 | -78.8978 |
+| River Forest Park | 36.0776 | -78.8988 |
 | Old Farm Road Park | 36.0759 | -78.8972 |
